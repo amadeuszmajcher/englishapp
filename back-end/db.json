@@ -11,6 +11,12 @@
       "word": "skakać",
       "translation": "jump",
       "category": "verb"
+    },
+    {
+      "word": "Samochód",
+      "translation": "Car",
+      "category": "noun",
+      "id": 4
     }
   ]
 }
